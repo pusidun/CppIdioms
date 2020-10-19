@@ -5,6 +5,7 @@
 
 # Content
 
+22. CRTP
 65. Pimpl
 
 # Contribution
