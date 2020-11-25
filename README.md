@@ -5,8 +5,10 @@
 
 # Content
 
-22. CRTP
-65. Pimpl
+[11.Checked delete](https://github.com/pusidun/CppIdioms/blob/master/11_Checked_delete.md)
+[22.CRTP](https://github.com/pusidun/CppIdioms/blob/master/22_CRTP.md)
+[65.Pimpl](https://github.com/pusidun/CppIdioms/blob/master/65_Pimpl.md)
+[78.SFINAE](https://github.com/pusidun/CppIdioms/blob/master/78_SFINAE.md)
 
 # Contribution
 
